@@ -16,13 +16,20 @@ Data Integrity: Validated using the ROCCC framework. While the data is cited and
 
 ## Insight 1: The "Evening Peak" & "3 PM Slump"
 Analysis of hourly data reveals that users are most active between 5:00 PM and 7:00 PM, likely after work. Conversely, there is a consistent dip in activity around 3:00 PM. 
-![Bar chart](https://drive.google.com/file/d/1I76wtusJ2dcRzWHIajwY9V6zXsVRJ_Z8/view?usp=drive_link)
+
+<img width="776" height="542" alt="Screenshot 2026-01-06 112730" src="https://github.com/user-attachments/assets/e58b82ea-22f0-4196-92e4-aeb89dd5be2a" />
+
+
 ## Insight 2: Sleep Efficiency Gaps
 There is a strong linear correlation between time in bed and time asleep. However, significant outliers indicate users often spend 30-60+ minutes awake in bed, signaling potential opportunities for sleep aid features.
-![LIne chart](https://drive.google.com/file/d/1Rdcpv5w80NvUJKEMwgtcJIieEq6Ygqta/view?usp=drive_link)
+
+<img width="799" height="567" alt="Screenshot 2026-01-06 112755" src="https://github.com/user-attachments/assets/b81798ef-018a-4b78-ad81-a5f6a19813f2" />
+
 ## Insight 3: The Retention Challenge
 Usage data shows a polarized behavior: 50% of users wear the device consistently (21+ days/month), while 38% abandon it quickly (using it <10 days/month). This suggests a comfort or aesthetic barrier to daily wear. 
-![Pie chart](https://drive.google.com/file/d/18p-bkDQyO0jCFmQN-twl6-e3mSnP3bcQ/view?usp=drive_link)
+
+<img width="776" height="494" alt="Screenshot 2026-01-06 112914" src="https://github.com/user-attachments/assets/f72988e2-b078-40bd-be0d-2f5a3f506b6e" />
+
 ## 5. Strategic Recommendations (Act Phase)
 Based on the analysis, I propose the following strategies for the Bellabeat marketing team:
 Notification Strategy: Program the Bellabeat app to send high-energy workout reminders at 4:30 PM to align with the natural activity peak. Conversely, use the 3:00 PM slump to suggest low-effort wellness activities like breathing exercises or hydration.
