@@ -32,9 +32,13 @@ Usage data shows a polarized behavior: 50% of users wear the device consistently
 
 ## 5. Strategic Recommendations (Act Phase)
 Based on the analysis, I propose the following strategies for the Bellabeat marketing team:
-Notification Strategy: Program the Bellabeat app to send high-energy workout reminders at 4:30 PM to align with the natural activity peak. Conversely, use the 3:00 PM slump to suggest low-effort wellness activities like breathing exercises or hydration.
 
-Position Bellabeat as a Sleep Solution: Address the **awake in bed** gap by marketing Bellabeat's ability to detect restlessness and automatically suggest soothing content (meditation/stories) to help users fall back asleep.
+**Notification Strategy:** Program the Bellabeat app to send high-energy workout reminders at 4:30 PM to align with the natural activity peak. Conversely, use the 3:00 PM slump to suggest low-effort wellness activities like breathing exercises or hydration.
+
+**Position Bellabeat as a Sleep Solution:** Address the **awake in bed** gap by marketing Bellabeat's ability to detect restlessness and automatically suggest soothing content (meditation/stories) to help users fall back asleep.
 Fashion-First Retention Campaign: Tackle the high abandonment rate (38%) by highlighting Bellabeat's jewelry-like design. Marketing should emphasize comfort and style to encourage 24/7 wear, ensuring more complete health data.
 
-
+anther strategy is implementing challenges and games that women can play in they’re phones connected to
+they’re devices such creating a score board with other women especially friends wearing the device to track
+each others steps and see who reaches the highest score. another is giving rewards to those wearing they’re
+device for 30 days
